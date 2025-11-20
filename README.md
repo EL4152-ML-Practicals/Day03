@@ -1,4 +1,4 @@
-## 📚 Day 03: Data Visualization & Analysis
+# 📚 Day 03: Data Visualization & Analysis
 
 ---
 
